@@ -1,0 +1,29 @@
+
+----------------------------------------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------
+
+                                             SECURETECH SOLUTIONS PVT. LTD.
+                                               Information Security Policy
+
+---------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------
+
+Minimum Password Length    : 12 characters
+
+Uppercase Letters          : Required  {Min = 1} {Max = 2}
+
+Lowercase Letters          : Required  {Min = 1} {Max = 2}
+
+Numbers                    : Required  {Min = 4} {Max = 8}
+
+Special Characters         : Required  {Min = 1} {Max = 2}
+
+Password Expiry            : 90 days
+ 
+MFA                        : Enabled
+
+---------------------------------------------------------------------------------------------------------
+
+Unauthorized Modification of this document is Prohibited
+
+
